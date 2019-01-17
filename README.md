@@ -1,2 +1,2 @@
 # helloworld
-HelloWorld
+HelloWorld is perfect for begineers!
